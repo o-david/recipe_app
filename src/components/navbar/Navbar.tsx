@@ -1,7 +1,7 @@
 export const Navbar = () => {
   return (
     <>
-        <header className="flex justify-around w-full bg-secondary text-primary py-3 border-b-2 mb-8  ">
+        <header className="flex justify-around w-full bg-primary text-secondary  py-3 border-b-2 mb-8  ">
         <a href="/" target="_blank" className="font-montserrat  text-lg">
             My Recipe
         </a>

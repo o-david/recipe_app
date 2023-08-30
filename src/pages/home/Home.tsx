@@ -1,4 +1,4 @@
-import { Navbar } from "../../components";
+import { Footer, Navbar } from "../../components";
 import { egusi } from "../../assets/images";
 export const Home = () => {
   return (
@@ -73,10 +73,11 @@ export const Home = () => {
           <img
             src={`${egusi}`}
             alt=""
-            className="w-[85%] m-auto border-y-2 py-4"
+            className="w-[85%] m-auto border-y-2 py-4 "
           />
         </div>
       </div>
+      <Footer />
     </div>
   );
 };
