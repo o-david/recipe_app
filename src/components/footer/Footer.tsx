@@ -1,6 +1,6 @@
 
 export const Footer = () => {
   return (
-        <p className="bg-primary text-center text-secondary py-6">Tamasu Butterfly Europe GmbH | Imprint | © 2022. All Rights reserved.</p>
+        <p className="bg-primary text-center text-secondary py-6">Dave's Kitchen | © 2023. All Rights reserved.</p>
   )
 }
