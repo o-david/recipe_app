@@ -1,3 +1,3 @@
-import {
-    background
-} from "../assets/images";
+// import {
+//     background
+// } from "../assets/images";
